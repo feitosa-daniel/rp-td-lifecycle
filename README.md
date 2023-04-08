@@ -33,8 +33,8 @@ The figures used in the paper can be found in the folder `figs/`. The figures ar
 
 ### Scripts
 
-- `Dockerfile`, `docker-compose.yaml`, `env.yaml`\
-    Files to build and start a Docker container with a JupyterLab instance and all necessary dependencies (see `env.yaml`).
+- `scripts/Dockerfile`, `scripts/docker-compose.yaml`, `scripts/env.yaml`\
+    Files to build and start a Docker container with a JupyterLab instance and all necessary dependencies (see `scripts/env.yaml`).
 
 - `scripts/data-analysis.ipynb`\
     Jupyter notebook that contains all analysis (including statistics and figures) reported in the paper.
@@ -42,7 +42,7 @@ The figures used in the paper can be found in the folder `figs/`. The figures ar
 - Running scripts (via JupyterLab):
     1. Install [Docker Engine](https://docs.docker.com/engine/install/)
     2. In the terminal/cmd
-       1. Navigate to this folder
+       1. Navigate to `scripts/`
        2. Run `docker compose up`
     3. In your web browser, navigate to https://localhost:8888
 
