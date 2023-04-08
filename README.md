@@ -4,9 +4,6 @@
 
 ##### Authors: Jie Tan, Daniel Feitosa, Paris Avgeriou
 
-> NOTE: **Long-term storage** 
-> This is a temporary repository for review. If the submission is accepted, we will upload its content to an archival repository that guarantees long-time storage and update the manuscript with the DOI.
-
 ## Description of this study
 
 Although Technical Debt (TD) has increasingly gained attention in recent years, most studies exploring TD are based on a single source (e.g., source code, code comments or issue trackers).
@@ -51,12 +48,19 @@ The figures used in the paper can be found in the folder `figs/`. The figures ar
 
 ## Paper
 
-Latest version available on [arXiv](https://arxiv.org/abs/xxxxx)
-
 If you publish a paper where this dataset helps your research, we encourage you to cite the following paper in your publication:
 
-```
-
+```bibtex
+@article{Tan2023,
+  title = {The lifecycle of Technical Debt that manifests in both source code and issue trackers},
+  author = {Jie Tan and Daniel Feitosa and Paris Avgeriou},
+  doi = {10.1016/j.infsof.2023.107216},
+  url = {https://doi.org/10.1016/j.infsof.2023.107216},
+  year = {2023},
+  publisher = {Elsevier {BV}},
+  pages = {107216},
+  journal = {Information and Software Technology}
+}
 ```
 
 
