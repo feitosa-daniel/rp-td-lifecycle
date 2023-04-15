@@ -9,7 +9,25 @@ authors:
 - family-names: "Paris"
   given-names: "Avgeriou"
   orcid: "https://orcid.org/0000-0002-7101-0754"
-title: "The lifecycle of Technical Debt that manifests in both source code and issue trackers"
-doi: 10.1016/j.infsof.2023.107216
-date-released: 2023-04-13
+title: 'Replication package for "The Lifecycle of Technical Debt that Manifests in both Source Code and Issue Trackers"'
+doi: 10.5281/zenodo.7810853
+date-released: 2023-04-08
 url: "https://github.com/feitosa-daniel/rp-td-lifecycle"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Jie"
+    given-names: "Tan"
+  - family-names: "Daniel"
+    given-names: "Feitosa"
+    orcid: "https://orcid.org/0000-0001-9371-232X"
+  - family-names: "Paris"
+    given-names: "Avgeriou"
+    orcid: "https://orcid.org/0000-0002-7101-0754"
+  doi: "10.1016/j.infsof.2023.107216"
+  journal: "Information and Software Technology"
+  month: 7
+  pages: 107216
+  title: "The lifecycle of Technical Debt that manifests in both source code and issue trackers"
+  volume: 159
+  year: 2023
