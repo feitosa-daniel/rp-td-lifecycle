@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you publish a paper where this dataset helps your research, we encourage you to cite the following paper."
+authors:
+- family-names: "Jie"
+  given-names: "Tan"
+- family-names: "Daniel"
+  given-names: "Feitosa"
+  orcid: "https://orcid.org/0000-0001-9371-232X"
+- family-names: "Paris"
+  given-names: "Avgeriou"
+  orcid: "https://orcid.org/0000-0002-7101-0754"
+title: "The lifecycle of Technical Debt that manifests in both source code and issue trackers"
+doi: 10.1016/j.infsof.2023.107216
+date-released: 2023-04-13
+url: "https://github.com/feitosa-daniel/rp-td-lifecycle"
